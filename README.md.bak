@@ -14,7 +14,7 @@ sudo apt install -y dnsutils ipset
 ## Cài đặt
 
 ```bash
-git clone https://github.com/caothemanh/cdnscaner.git
+git clone https://github.com/<ten-cua-ban>/cdnscan.git
 cd cdnscan
 chmod +x cdnscan.sh
 ./cdnscan.sh init
