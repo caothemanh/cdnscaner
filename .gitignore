@@ -1,0 +1,5 @@
+data/*/latest.txt
+data/*/history/*.txt
+export/*.ipset
+export/*.mwan3
+cron.log
